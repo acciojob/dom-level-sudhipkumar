@@ -8,6 +8,6 @@ document.addEventListener("DOMContentLoaded", function () {
         level++;
         element = element.parentElement;
     }
-
+//
     alert("The level of the element is: " + level);
 });
